@@ -1,4 +1,4 @@
-<h2 align="left">Oiii! Me chamo Eduarda Alves..</h2>
+<h2 align="left">Oiii! Meu nome é Eduarda Alves..</h2>
 
 ###
 
