@@ -1,4 +1,4 @@
-<h2 align="left">Helllo World! Eu sou Eduarda Alves..</h2>
+<h1 align="left">Helllo World! Eu sou Eduarda Alves..</h1>
 
 ###
 
@@ -9,11 +9,9 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">Tecnologias | 💻</h2>
-
-###
-
-<img align="right" height="185" src="https://private-user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE0NDQyNDMsIm5iZiI6MTc0MTQ0Mzk0MywicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4NzEtMDhmYTlmNWItZGNiNy00ZjVlLTg3MjEtMjAzNDY4ZGRhNWYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA4VDE0MjU0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE1OWJjZTVkNjcyZjIwNjVhNzhjY2MwNmJkNGQ1YWY3MmRiODEyZTRmMjczOTU1ODBhNzA3YzkzMmZjOWUxYmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PmNnP_sjkGO1W8LXhkHsFhxSnt3jeQ-B8_L7RpM7J_I"  />
 
 ###
 
@@ -32,6 +30,10 @@
 ###
 
 <br clear="both">
+
+<img align="right" height="185" src="https://private-user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE0NDQyNDMsIm5iZiI6MTc0MTQ0Mzk0MywicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4NzEtMDhmYTlmNWItZGNiNy00ZjVlLTg3MjEtMjAzNDY4ZGRhNWYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA4VDE0MjU0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE1OWJjZTVkNjcyZjIwNjVhNzhjY2MwNmJkNGQ1YWY3MmRiODEyZTRmMjczOTU1ODBhNzA3YzkzMmZjOWUxYmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PmNnP_sjkGO1W8LXhkHsFhxSnt3jeQ-B8_L7RpM7J_I"  />
+
+###
 
 <img src="https://raw.githubusercontent.com/Dudacodes/Dudacodes/output/snake.svg" alt="Snake animation" />
 
