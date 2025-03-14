@@ -1,4 +1,4 @@
-<h1 align="left">Helllo World! Eu sou Eduarda Alves..</h1>
+<h1 align="left">Hello World! Eu sou Eduarda Alves..</h1>
 
 ###
 
