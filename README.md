@@ -15,8 +15,7 @@
 <div align="left">
   <h3 align="left"> 👩🏻‍💻| About Me </h3> 
   <p align="left"> Oii!! Sou estudante do 3º semestre de Ciência da Computação. <br>
-    Atualmente, estou me aprofundando em Python para Ciência de Dados e C,<br> 
-    além de começar minha jornada no mundo dos Bancos de Dados. <br>
+    Atualmente, estou me aprofundando em Python para Ciência de Dados e C, além de começar minha jornada no mundo dos Bancos de Dados. <br>
 
 <br clear="both">
 
