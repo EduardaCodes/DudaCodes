@@ -39,6 +39,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dudacodes/Dudacodes/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Eduardacodes/Eduardacodes/output/snake.svg" alt="Snake animation" />
 
 ###
